@@ -1,23 +1,26 @@
-# Эдуард Леонов
+# Эдуард Леонов | Data Analyst · BI Analyst · Data Science
 
-**Data Analytics / BI · SQL · Python · Power BI**
+**SQL · Python · PostgreSQL · Power BI · DataLens · Machine Learning**
 
-Развиваюсь в аналитике данных и BI. Опыт работы в B2B-продажах помогает связывать расчёты с бизнес-процессами, коммерческими показателями и практическими решениями. Также изучаю машинное обучение и Computer Vision.
+Перехожу из B2B-продаж в аналитику данных. Более 7 лет работаю с коммерческими процессами: клиентами, заказами, ценами и выручкой. В проектах объединяю бизнес-постановку задачи, проверку данных, расчёты и понятные выводы. Параллельно развиваюсь в машинном обучении и Computer Vision.
 
-## Проекты
+## Избранные проекты
 
-| Проект | Что сделано | Инструменты |
+| Проект | Задача и результат | Стек |
 | --- | --- | --- |
-| [Анализ продаж и доставки Olist](https://github.com/Dasein46/olist-analysis) | Анализ продаж, товарных категорий, сроков доставки и отзывов; SQL-представления, ETL и интерактивный отчёт | PostgreSQL, SQL, Python, Power BI, DAX |
-| [Продажи и запасы маркетплейса](https://github.com/Dasein46/marketplace-inventory-analysis) | Анализ запаса в днях и маржинальности товаров, интерактивный дашборд | Google Sheets, Yandex DataLens |
-| [Computer Vision](https://github.com/Dasein46/My_projects) | Эксперименты по классификации медицинских изображений и сезонному преобразованию спутниковых снимков | Python, TensorFlow/Keras, PyTorch, fastai |
-| [Проекты Яндекс Практикума](https://github.com/Dasein46/Yandex-praktikum) | Учебные исследования и модели: классификация, регрессия, NLP, временные ряды | Python, pandas, scikit-learn |
+| [**Продажи и доставка Olist**](https://github.com/Dasein46/olist-analysis) | Анализ продаж, категорий, доставки и отзывов; SQL-проверки, DWH/ETL и трёхстраничный Power BI-отчёт | PostgreSQL, SQL, Python, Power Query, DAX, Power BI |
+| [**Запасы маркетплейса**](https://github.com/Dasein46/marketplace-inventory-analysis) | Анализ риска дефицита на 30 дней: 456 артикулов, 148 с запасом до 7 дней; [интерактивный дашборд](https://datalens.yandex/hsa2aikivb480?_share_link=public) | Google Sheets, Yandex DataLens |
+| [**Computer Vision — 6 исследований**](https://github.com/Dasein46/My_projects) | Классификация медицинских изображений и преобразование спутниковых снимков; разделение по пациентам/городам, контроль утечек и тесты | Python, TensorFlow/Keras, PyTorch, fastai |
+| [**Data Science — учебные проекты**](https://github.com/Dasein46/Yandex-praktikum) | Отток клиентов, прогноз спроса на такси, NLP, восстановление золота и другие ML-задачи | pandas, NumPy, scikit-learn, SciPy, NLP |
 
-## Инструменты и направления
+## Навыки
 
-- **Аналитика и данные:** SQL, PostgreSQL, pandas, Excel, Power Query.
-- **BI и визуализация:** Power BI, DAX, Yandex DataLens.
-- **Разработка и ML:** Python, Git, scikit-learn, TensorFlow/Keras, PyTorch.
-- **Практика:** подготовка и проверка данных, аналитические запросы, ETL, дашборды, оценка моделей.
+- **Аналитика и BI:** SQL, PostgreSQL, Excel, Power Query, Power BI, DAX, Yandex DataLens; визуализация, контроль качества данных, витрины.
+- **Python и ML:** pandas, NumPy, scikit-learn, TensorFlow/Keras, PyTorch; классификация, регрессия, временные ряды, NLP, Computer Vision.
+- **Инженерные практики:** Git, ETL, SQL-проверки, воспроизводимые эксперименты, тесты, документирование ограничений.
 
-Сейчас уделяю особое внимание воспроизводимости исследований, корректной валидации моделей и качеству аналитических проектов.
+## Как я работаю с качеством
+
+В CV-проектах пересмотрены разбиения данных и процедуры оценки, добавлены автоматизированные проверки. **51 тест прошёл** при последней зафиксированной технической проверке; это не означает подтверждения качества моделей на исходных датасетах. Повторное полное обучение ещё не проводилось. Подробности: [методология CV](https://github.com/Dasein46/My_projects/blob/main/METHODOLOGY.md) и [методология DS-проектов](https://github.com/Dasein46/Yandex-praktikum/blob/main/METHODOLOGY.md).
+
+**Интересующие роли:** Data Analyst / BI Analyst; также рассматриваю Junior Data Scientist и ML-направления.
